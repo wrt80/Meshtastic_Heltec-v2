@@ -58,6 +58,6 @@ Your Heltec V2 should now start up and display the Meshtastic splash screen.
 
 This project provides pre-compiled binaries of the official Meshtastic firmware. All rights and licenses of the original software belong to the Meshtastic project and its contributors. For more details, visit the [official Meshtastic firmware repository](https://github.com/meshtastic/firmware).
 
-A special thank you to **psdurco** for providing the original instructions and methodology that this build is based upon. You can find their work [here](https://github.com/psdurco).
+A special thank you to **psdurco** and **meshtastic reddit team** providing the original instructions and methodology that this build is based upon. You can find their work [here](https://github.com/psdurco) and [here](https://www.reddit.com/r/meshtastic/comments/1hrancs/guide_heltec_v2v21_build_latest_meshtastic) 
 
 ---
